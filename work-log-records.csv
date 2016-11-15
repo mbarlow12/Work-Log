@@ -1,0 +1,6 @@
+duration,notes,date,title,id_num
+0:02:00,notes,2001-01-01,a final task,112
+1:07:00,leets get the bountary then @somechars,2013-01-24,this should be found by my regex,70
+0:45:00,here are the cool notes,2010-10-10,task number 2,109
+0:55:00,"let's get some strange notes in this one (888) - 985 - 0040, @gmail.com",2010-10-11,a third task edited,110
+2:36:00,#$ that's a wierd string I should try to find (but I'll never tell),2016-11-14,task numbe ,111
