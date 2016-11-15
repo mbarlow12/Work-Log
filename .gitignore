@@ -1,6 +1,6 @@
-./paginate.py
+paginate.py
 ./validator.py
-./work-log-%s.py
+work-log-%s.py
 
 # OS generated files #
 ######################
